@@ -1,14 +1,37 @@
-Sankeerthana Verneni — Personal Website V9
-==========================================
-Open index.html locally to preview.
+# Sankeerthana Verneni
 
-Deployment:
-1. Replace the contents of your sankeerthana0.github.io repository with this folder.
-2. Keep index.html at repository root.
-3. GitHub Pages: Settings -> Pages -> Deploy from branch -> main / (root).
+### Software Engineer | AI/ML Systems
 
-Main links included:
-- GitHub: https://github.com/sankeerthana0
-- LinkedIn: https://www.linkedin.com/in/sankeerthana-verneni-deploy
-- Writing: https://productionaiweekly.substack.com/publish/posts/published
-- Email: vernenisankeerthana@gmail.com
+I like building things that start as ideas and end up as systems.
+
+My work sits somewhere between **software engineering, AI/ML, backend systems, and infrastructure** — from intelligent applications and multi-agent systems to platforms for evaluation, deployment, monitoring, and reliability.
+
+I'm particularly interested in one question:
+
+> **What happens when an AI system has to work beyond the demo?**
+
+I enjoy exploring that through projects, experiments, research, and the occasional rabbit hole into how systems actually behave under real constraints.
+
+Currently exploring:
+
+- Software Engineering & Backend Systems
+- AI/ML Infrastructure
+- LLM & Multi-Agent Systems
+- Distributed Systems
+- Cloud & Reliability
+
+### Curious?
+
+I keep the interesting stuff here:
+
+🌐 **[Visit my personal website →](https://sankeerthana0.github.io/)**
+
+💻 **[GitHub →](https://github.com/sankeerthana0)**
+
+💼 **[LinkedIn →](https://www.linkedin.com/in/sankeerthana-verneni-deploy)**
+
+✍️ **[Production AI Weekly →](https://productionaiweekly.substack.com/)**
+
+---
+
+> Building systems that go beyond the demo.
